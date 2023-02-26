@@ -1,6 +1,7 @@
   <template>
-    <div class="container">
-    <h2 class="text-center font-weight-bold">Introducción</h2>
+    <div class="justify-text-container">
+    <h2 class="text-center font-weight-bold mx-auto d-block mt-5">Introducción</h2>
+    <p></p>
     <p>En este proyecto he utilizado varias tecnologías para crear una página web para un portafolio personal.
         He utilizado JavaScript, Node.js, Vue.js, HTML, CSS y Bootstrap para construir y diseñar la página.</p>
     <p>JavaScript es un lenguaje de programación de alto nivel que se utiliza para agregar interactividad y

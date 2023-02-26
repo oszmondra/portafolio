@@ -1,5 +1,5 @@
 <template>
-    <div class="container">
+    <div class="container-fluid">
     <img src="../assets/img/UGBlogo.png" alt="UGBlogo" class="mx-auto d-block mt-5" width="807" height="254" >
     <h2 class="text-center font-weight-bold">Facultad de ciencia y tecnología</h2>
     <p></p>
