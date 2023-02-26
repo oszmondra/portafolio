@@ -1,6 +1,6 @@
 <template>
   <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top">
-    <a class="navbar-brand" href="#">Mi portafolio</a>
+    <a class="navbar-brand" href="http://localhost:5173/">Mi portafolio</a>
     <button
       class="navbar-toggler"
       type="button"
@@ -35,9 +35,9 @@
         <li class="nav-item">
           <router-link to="/guias" class="nav-link">Guias de Laboratorio</router-link>
         </li>
-        <li class="nav-item">
+        <!--<li class="nav-item">
           <router-link to="/casos" class="nav-link">Casos de estudio</router-link>
-        </li>
+        </li> -->
         <li class="nav-item">
           <router-link to="/tareas" class="nav-link">Tareas</router-link>
         </li>
@@ -45,7 +45,7 @@
           <router-link to="/calificaciones" class="nav-link">Calificaciones</router-link>
         </li>
         <li class="nav-item">
-          <router-link to="/proyecto" class="nav-link">Proyecto</router-link>
+          <router-link to="/main" class="nav-link">Proyecto</router-link>
         </li>
       </ul>
     </div>

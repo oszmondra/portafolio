@@ -46,17 +46,60 @@
     <p></p>
     <h6>Bootstrap</h6>
     <img src="../assets/img/Bootstrap_logo.png" alt="Bootstraplogo" class="mx-auto d-block mt-5" width="200" height="180" > 
+    <p></p>
     <p>Bootstrap es un marco de desarrollo web de código abierto que se utiliza para crear sitios web y aplicaciones web.
        Fue desarrollado originalmente por Twitter en 2011 por Mark Otto y Jacob Thornton y se ha convertido en uno de los
        frameworks de desarrollo web más populares hasta la fecha. Bootstrap es una herramienta que ayuda a los
        desarrolladores web a crear diseños y páginas web responsivas, así como a proporcionar una amplia variedad de
        componentes y utilidades de CSS y JavaScript para mejorar la funcionalidad y apariencia de sus sitios web. </p>
-    <p>Uno de los principales beneficios de Bootstrap es que se enfoca en la creación de diseños responsivos que se adaptan automáticamente a diferentes tamaños de pantalla. Esto significa que los sitios web construidos con Bootstrap son compatibles con dispositivos móviles y se ven bien en cualquier pantalla, ya sea una computadora de escritorio, una tableta o un teléfono inteligente. Además, Bootstrap ofrece una amplia variedad de plantillas y temas preconstruidos que los desarrolladores pueden utilizar como punto de partida para sus proyectos.</p>
-    <p>Bootstrap es especialmente útil para los desarrolladores que no tienen experiencia en diseño web o no tienen acceso a un diseñador gráfico. Esto se debe a que Bootstrap proporciona una amplia variedad de componentes y utilidades que pueden utilizarse para diseñar una página web sin la necesidad de tener habilidades avanzadas en diseño o conocimientos profundos en HTML, CSS o JavaScript. Esto permite a los desarrolladores centrarse en el desarrollo de la funcionalidad del sitio web en lugar de preocuparse por el diseño.
-</p>
-    <p>Otra de las características de Bootstrap es que es altamente personalizable. Los desarrolladores pueden personalizar fácilmente los estilos CSS, las plantillas y los temas para adaptarse a sus necesidades específicas. Además, Bootstrap es compatible con la mayoría de los navegadores modernos, lo que significa que los sitios web creados con Bootstrap se verán bien en la mayoría de los dispositivos y navegadores.</p>
-    <p>En resumen, Bootstrap es un marco de desarrollo web poderoso y fácil de usar que permite a los desarrolladores crear sitios web y aplicaciones web responsivas y altamente personalizables. Con su amplia variedad de componentes y utilidades preconstruidas, Bootstrap facilita la creación de sitios web y aplicaciones web de alta calidad para desarrolladores de todos los niveles de experiencia.</p>
-    </div>
+    <p>Uno de los principales beneficios de Bootstrap es que se enfoca en la creación de diseños responsivos que se adaptan
+       automáticamente a diferentes tamaños de pantalla. Esto significa que los sitios web construidos con Bootstrap son
+       compatibles con dispositivos móviles y se ven bien en cualquier pantalla, ya sea una computadora de escritorio,
+       una tableta o un teléfono inteligente. Además, Bootstrap ofrece una amplia variedad de plantillas y temas
+       preconstruidos que los desarrolladores pueden utilizar como punto de partida para sus proyectos.</p>
+    <p>Bootstrap es especialmente útil para los desarrolladores que no tienen experiencia en diseño web o no tienen acceso
+       a un diseñador gráfico. Esto se debe a que Bootstrap proporciona una amplia variedad de componentes y utilidades
+       que pueden utilizarse para diseñar una página web sin la necesidad de tener habilidades avanzadas en diseño o
+       conocimientos profundos en HTML, CSS o JavaScript. Esto permite a los desarrolladores centrarse en el desarrollo de
+       la funcionalidad del sitio web en lugar de preocuparse por el diseño.</p>
+    <p>Otra de las características de Bootstrap es que es altamente personalizable. Los desarrolladores pueden personalizar
+       fácilmente los estilos CSS, las plantillas y los temas para adaptarse a sus necesidades específicas. Además,
+       Bootstrap es compatible con la mayoría de los navegadores modernos, lo que significa que los sitios web creados con
+       Bootstrap se verán bien en la mayoría de los dispositivos y navegadores.</p>
+    <p>En resumen, Bootstrap es un marco de desarrollo web poderoso y fácil de usar que permite a los desarrolladores
+       crear sitios web y aplicaciones web responsivas y altamente personalizables. Con su amplia variedad de componentes 
+       y utilidades preconstruidas, Bootstrap facilita la creación de sitios web y aplicaciones web de alta calidad para 
+       desarrolladores de todos los niveles de experiencia.</p>
+       <p></p>
+       <p></p>
+       <p></p>
+       <h6>Vuejs</h6>
+    <img src="../assets/img/Vue.js_Logo.png" alt="vuejslogo" class="mx-auto d-block mt-5" width="200" height="180" >
+    <p></p>
+    <p>VueJS es una biblioteca de JavaScript que se utiliza para crear interfaces de usuario dinámicas. A diferencia
+       de otros frameworks, VueJS se puede adoptar de manera incremental, y se enfoca principalmente en la capa de vista.
+       Sin embargo, también se puede utilizar para construir aplicaciones sofisticadas de una sola página en combinación
+       con otras herramientas y bibliotecas.</p>
+    <p>Entre las principales características de VueJS se incluyen:</p>
+
+    <li><strong>Modularidad: </strong>VueJS es completamente modular, lo que significa que se puede integrar con otras
+       bibliotecas y herramientas existentes.</li>
+    <li><strong>Reactividad: </strong>VueJS tiene propiedades reactivas, lo que significa que si se cambia una variable
+       en una parte de la vista, VueJS actualizará automáticamente el valor en el resto de la aplicación.</li>
+    <li><strong>Componentes web: </strong>VueJS se basa en componentes, lo que permite reutilizar el código y hacer que
+       la aplicación sea más fácil de mantener.</li>
+    <li><strong>Virtual DOM: </strong>VueJS crea una réplica del DOM (Document Object Model) para hacer cambios en la
+       vista de manera más eficiente.</li>
+    <li><strong>Eventos y transiciones: </strong>VueJS permite reaccionar a eventos que realiza el usuario,
+       como hacer clic en un elemento.</li>
+    <li><strong>Mixins: </strong>los mixins son funciones y lógica de los componentes que se pueden reutilizar y reusar
+       en otros componentes web.</li>
+    <li><strong>Ciclo de vida: </strong>se puede controlar lo que ocurre antes de que se cargue el componente, lo que pasa
+       justo al cargarse o al destruirse.</li>
+    <li><strong>Aplicaciones SPA: </strong>VueJS tiene un paquete especial para tener un sistema de rutas y construir
+       aplicaciones de una sola página.</li>
+ 
+  </div>
 
 </template>
 
