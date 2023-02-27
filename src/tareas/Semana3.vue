@@ -15,9 +15,6 @@
        <div class="collapse navbar-collapse" id="navbarNav">
          <ul class="navbar-nav ml-auto">
            <li class="nav-item">
-             <router-link to="/Tareas" class="nav-link">Semana 1</router-link>
-           </li>
-           <li class="nav-item">
              <router-link to="/Semana2" class="nav-link">Semana 2</router-link>
            </li>
            <li class="nav-item">
