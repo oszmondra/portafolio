@@ -98,8 +98,43 @@
        justo al cargarse o al destruirse.</li>
     <li><strong>Aplicaciones SPA: </strong>VueJS tiene un paquete especial para tener un sistema de rutas y construir
        aplicaciones de una sola página.</li>
- 
+      </div>
+      <p></p>
+      <div class="justify-text-container">
+    <p></p>
+    <h4>Semana 3 - Rendering declarativo_Directivas.</h4>
+   <p>El rendering declarativo es una técnica utilizada para describir cómo debería ser el resultado final de una página
+       web en lugar de cómo se debe llegar a ese resultado. En otras palabras, se define la apariencia final deseada y 
+       Vue.js se encarga de calcular los cambios necesarios para llegar a ese resultado final</p>
+   <p>Por otro lado, las directivas son una característica importante de Vue.js que permiten conectar elementos del DOM 
+       con el modelo de datos de la aplicación. Las directivas se utilizan para aplicar ciertas acciones a elementos HTML,
+       como la asignación de valores, el control de eventos y la modificación de estilos. Algunas de las directivas más 
+       utilizadas en Vue.js incluyen v-bind, v-if, v-for y v-on.</p>
+   <p>En resumen, el rendering declarativo y las directivas son herramientas fundamentales que permiten a los 
+       desarrolladores de Vue.js crear interfaces de usuario dinámicas y reactivas de forma más sencilla y eficiente.</p>
   </div>
+  <p></p>
+  <div class="justify-text-container">
+    <p></p>
+    <h4>Semana 4 - Eventos_Clases.</h4>
+    <p></p>
+    <h6>Eventos en Vue.js: </h6>
+    <p>Los eventos en Vue.js son muy similares a los eventos en JavaScript. Los eventos son desencadenados por el 
+      usuario y Vue.js proporciona una forma fácil de manejarlos. El manejo de eventos en Vue.js se hace con la 
+      directiva @ o v-on, que se puede colocar en cualquier elemento HTML que dispare un evento. La sintaxis para 
+      manejar eventos en Vue.js es @event-name="methodName" o v-on:event-name="methodName", donde event-name es el 
+      nombre del evento que se está manejando y methodName es el nombre del método que manejará el evento.</p>
+    <p></p>
+    <h6>Clases en Vue.js: </h6>
+    <p>Las clases en Vue.js son una forma fácil de agregar o eliminar clases CSS dinámicamente a un elemento HTML. La
+       directiva v-bind:class se usa para enlazar dinámicamente clases a un elemento HTML. La sintaxis para usar la
+       directiva v-bind:class es v-bind:class="{className: condition}", donde className es el nombre de la clase que 
+       se va a agregar y condition es la condición que debe cumplirse para que se agregue la clase.</p>
+    <p></p>
+    <p>Las clases también se pueden agregar directamente con la sintaxis :class="{className: condition}", lo que es lo 
+      mismo que v-bind:class="{className: condition}". Además, se pueden agregar varias clases usando un objeto o un 
+      arreglo</p>
+    </div>
 
 </template>
 

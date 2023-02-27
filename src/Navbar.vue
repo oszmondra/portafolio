@@ -32,9 +32,9 @@
         <li class="nav-item">
           <router-link to="/apuntes" class="nav-link">Apuntes</router-link>
         </li>
-        <li class="nav-item">
+        <!--<li class="nav-item">
           <router-link to="/guias" class="nav-link">Guias de Laboratorio</router-link>
-        </li>
+        </li>-->
         <!--<li class="nav-item">
           <router-link to="/casos" class="nav-link">Casos de estudio</router-link>
         </li> -->
