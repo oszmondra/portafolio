@@ -35,8 +35,7 @@
         <button type="button" v-on:click="changename">cambiar</button>
     </div>
 </template>
-
-<script>
+<script src="https://unpkg.com/vue@3/dist/vue.global.js">
     const app = Vue.createApp({
         data(){
             return {
