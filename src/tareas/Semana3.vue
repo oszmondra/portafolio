@@ -26,6 +26,7 @@
            </ul>
        </div>
     </nav>
+</template>
  <!--
     <div id="app">
         {{title}}
