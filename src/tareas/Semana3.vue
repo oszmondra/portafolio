@@ -26,7 +26,7 @@
            </ul>
        </div>
     </nav>
- 
+ <!--
     <div id="app">
         {{title}}
         <p>{{name}}</p>
@@ -51,3 +51,4 @@
         }
     }).mount('#app')
 </script>
+-->
