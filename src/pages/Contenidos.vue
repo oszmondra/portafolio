@@ -3,7 +3,7 @@
     <h2 class="text-center font-weight-bold mx-auto d-block mt-5">Contenidos</h2>
     <p></p>
     <h4>Semana 1 - JavaScript</h4>
-    <img src="../assets/img/JavaScript-Logo.png" alt="JavaScriptlogo" class="mx-auto d-block mt-5" width="400" height="180" > 
+    <img src="../assets/img/JavaScriptLogo.png" alt="JavaScriptlogo" class="mx-auto d-block mt-5" width="400" height="180" > 
     <p></p>
     <p>JavaScript es un lenguaje de programación que se utiliza en todo el mundo para hacer páginas web interactivas.
        Desde actualizar fuentes de redes sociales a mostrar animaciones y mapas interactivos, las funciones de
@@ -45,7 +45,7 @@
     <h4>Semana 2 - Bootstrap-Vuejs</h4>
     <p></p>
     <h6>Bootstrap</h6>
-    <img src="../assets/img/Bootstrap_logo.png" alt="Bootstraplogo" class="mx-auto d-block mt-5" width="200" height="180" > 
+    <img src="../assets/img/Bootstraplogo.png" alt="Bootstraplogo" class="mx-auto d-block mt-5" width="200" height="180" > 
     <p></p>
     <p>Bootstrap es un marco de desarrollo web de código abierto que se utiliza para crear sitios web y aplicaciones web.
        Fue desarrollado originalmente por Twitter en 2011 por Mark Otto y Jacob Thornton y se ha convertido en uno de los
@@ -74,7 +74,7 @@
        <p></p>
        <p></p>
        <h6>Vuejs</h6>
-    <img src="../assets/img/Vue.js_Logo.png" alt="vuejslogo" class="mx-auto d-block mt-5" width="200" height="180" >
+    <img src="../assets/img/VuejsLogo.png" alt="vuejslogo" class="mx-auto d-block mt-5" width="200" height="180" >
     <p></p>
     <p>VueJS es una biblioteca de JavaScript que se utiliza para crear interfaces de usuario dinámicas. A diferencia
        de otros frameworks, VueJS se puede adoptar de manera incremental, y se enfoca principalmente en la capa de vista.
